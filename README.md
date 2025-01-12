@@ -1,5 +1,5 @@
 # 👋 Cześć, jestem Daria!  
-🎓 Studentka drugiego roku informatyki | 💻 Technik informatyk | 🌱 Początkująca programistka  
+🎓 Studentka drugiego roku informatyki | 💻 Technik informatyk 
 
 ---
 
