@@ -11,8 +11,8 @@
 ---
 
 ## 📊 Statystyki GitHub:  
-![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoj-username&show_icons=true&theme=blueberry)  
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=twoj-username&layout=compact&theme=blueberry)  
+![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venatrix02&show_icons=true&theme=blueberry)  
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Venatrix02&layout=compact&theme=blueberry)  
 
 ---
 
