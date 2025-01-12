@@ -19,7 +19,7 @@
 ## 📚 Trochę o mnie:  
 - ✨ Uwielbiam czytać książki, mangi i oglądać anime.  
 - 🎨 W wolnym czasie rysuję i tworzę rękodzieło.  
-- 🌱 Uczę się wszystkiego na razie i rozwijam swoje umiejętności programistyczne.  
+- 🌱 Na razie wszystkiego się uczę i wciąż rozwijam swoje umiejętności programistyczne.  
 
 ---
 
