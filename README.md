@@ -6,7 +6,7 @@
 ## 🛠️ Technologie i umiejętności:  
 - 🌟 **Główne języki:** C#  
 - 📘 **Podstawy:** C++  
-- 🖥️ **Zainteresowania:** Sprzęt komputerowy, programowanie  
+- 🖥️ **Zainteresowania:** Sprzęt komputerowy, programowanie, sieci komputerowe, cyberbezpieczeństwo  
 
 ---
 
