@@ -1,12 +1,15 @@
 # 👋 Cześć, jestem Daria!  
-🎓 Studentka drugiego roku informatyki | 💻 Technik informatyk 
+🎓 Studentka trzeciego roku informatyki 
+💻 Specjalizacja: Sieci komputerowe i bezpieczeństwo sieciowe
+📚 Technik informatyk 
+
 
 ---
 
 ## 🛠️ Technologie i umiejętności:  
-- 🌟 **Główne języki:** C#  
+- 🌟 **Główne języki:** C#, Python  
 - 📘 **Podstawy:** C++  
-- 🖥️ **Zainteresowania:** Sprzęt komputerowy, programowanie, sieci komputerowe, cyberbezpieczeństwo  
+- 🖥️ **Zainteresowania:** Sieci komputerowe, cyberbezpieczeństwo  
 
 ---
 
