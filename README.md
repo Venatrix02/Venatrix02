@@ -30,9 +30,7 @@ Currently, I am working on my **engineering thesis focused on anomaly detection 
 
 ## 📚 About Me
 
-✨ I enjoy reading books, manga, watching anime, and playing computer games in the evenings  
-🎨 I enjoy drawing and creating handmade crafts  
-🌱 I enjoy finding ways to share knowledge and inspire others
+I enjoy reading books and manga, and I like watching anime. In the evenings, I often play computer games or spend time drawing and doing crafts. I’m also interested in finding ways to share knowledge and inspire others, which fits my goal of becoming a teacher in the future.
 
 ---
 
